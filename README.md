@@ -1,2 +1,2 @@
 # Turbulent-lithosphere-deformation-in-Tibetan-Plateau
-Source code and data for Turbulent lithosphere deformation in Tibetan Plateau
+The GPS data of the deformation of the Tibetan Plateau is presented here. The data is extracted from the table in Ref. P. Z. Zhang, Z. K. Shen, M. Wang, W. J. Gan, R. Bürgmann, P. Molnar, Q. Wang, Z. J. Niu, J. Z. Sun, J. C. Wu, H. R. Sun, and X. Z. You, Continuous deformation of the Tibetan Plateau from global positioning system data, Geology 32, 809 (2004). It is then reanalysed using the classical structure-function analysis, which is published in Physical Review E, 99, 062122 (2019) Turbulent lithosphere deformation in Tibetan Plateau.
